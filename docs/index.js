@@ -9,6 +9,12 @@
  //cannot contain a space or a hyphen
  //Are case-sensitive
 
- const interestRate = 0.3;
- interestRate = 1;
- console.log(interestRate);
+// constant is if you dont want to change value, and let is if you do
+
+ let name = 'Adarsh'; //string literal
+ let age = 30; // number literal
+ let isApproved = false; // boolean literal
+ let firstname; = undefined;
+ let selectedColor; = null;
+
+ 
