@@ -8,3 +8,7 @@
  //cannot start with a number
  //cannot contain a space or a hyphen
  //Are case-sensitive
+
+ const interestRate = 0.3;
+ interestRate = 1;
+ console.log(interestRate);
