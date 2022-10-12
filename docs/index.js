@@ -11,10 +11,14 @@
 
 // constant is if you dont want to change value, and let is if you do
 
- let name = 'Adarsh'; //string literal
+ let name = 'Adarsh again'; //string literal
  let age = 30; // number literal
  let isApproved = false; // boolean literal
  let firstname; = undefined;
  let selectedColor; = null;
 
- 
+ let person = {
+    name: 'Adarsh a second time',
+    age: 12
+ }
+ console.log(person)
