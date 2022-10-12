@@ -22,3 +22,11 @@
     age: 12
  }
  console.log(person)
+ //bracket notation
+ //person['name']
+
+ //dot notation
+ //person.name 
+
+ let selectedColors = ['red', 'blue'];
+ console.log(selectedColors);
