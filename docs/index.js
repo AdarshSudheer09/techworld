@@ -14,8 +14,8 @@
  let name = 'Adarsh again'; //string literal
  let age = 30; // number literal
  let isApproved = false; // boolean literal
- let firstname; = undefined;
- let selectedColor; = null;
+ let firstname = undefined;
+ let selectedColor = null;
 
  let person = {
     name: 'Adarsh a second time',
