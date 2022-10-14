@@ -32,8 +32,18 @@
  selectedColors[2] = 'green'
  console.log(selectedColors.length);
 
+ // performing a task
  function greet(name) {
-    console.log('Hello ' + name);
+    console.log('Hello ' + name + ' ' + lastName);
+ }
+ greet('Adarsh');
+
+ // calculating a value
+ function square(number) {
+    return number * number;
  }
 
- greet('Adarsh');
+ let number = square(2);
+ console.log(number)
+ // a function is a set of statements that either carries
+ // out a task or calculates and returns a value
